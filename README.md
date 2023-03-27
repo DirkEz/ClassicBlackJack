@@ -15,7 +15,7 @@
   </p>
 </div>
 
-**Contact**
+<div align="center">**Contact**</div>
 
 Dirk Schaafstra - dirk.schaafstra@gmail.com
 
