@@ -14,7 +14,8 @@
     <a href="https://github.com/DirkEz/ClassicBlackJack/issues">Report Bug</a>
   </p>
 </div>
-## Contact
+
+- Contact - 
 
 Dirk Schaafstra - dirk.schaafstra@gmail.com
 
