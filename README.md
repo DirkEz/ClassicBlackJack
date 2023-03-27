@@ -15,7 +15,7 @@
   </p>
 </div>
 
-- Contact - 
+Contact 
 
 Dirk Schaafstra - dirk.schaafstra@gmail.com
 
